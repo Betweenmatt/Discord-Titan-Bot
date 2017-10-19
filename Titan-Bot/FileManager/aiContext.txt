@@ -1,0 +1,44 @@
+[
+	{
+		"name":"basic thank you interaction",
+		"catcher":["thank u", "ty", "thanks"],
+		"context":["ty %", "thanks %", "thank u %", "% thank u", "% ty"],
+		"response":["You're welcome :)", "yw, @!", "Not a problem!", "You're very welcome, @.", "No problem :)"]
+	},
+	{
+		"name":"basic hello interaction",
+		"catcher":["hi", "hello", "hey"],
+		"context":["hi %", "% hi","hey %"],
+		"response":["Hello, @ :)", "How are you today, @?", "@, how have you been?", "Hi!!"]
+	},
+	{
+		"name":"basic love interaction",
+		"catcher":["love", "loves", "luv"],
+		"context":["love u %", "% love u", "loves u %", "luv u %"],
+		"response":["Aww I love you too @ :heart:", "Love you too!", "Omg I love you too @! :heart_eyes: :heart_eyes: :heart_eyes:"]
+	},
+	{
+		"name":"basic hate u interaction",
+		"catcher":["hate"],
+		"context":["hate u %", "% hate u"],
+		"response":["I hate you too @", "Bitch.", "Go to hell."]
+	},
+	{
+		"name":"basic what are u doing",
+		"catcher":["what","doing"],
+		"context":["% wat r u doing", "wat r u up to %", "wat r u up to %", "% wat r u up to"],
+		"response":["Not much, just chilling @", "Waiting for my turn to kill the titan ._.", "Nothing."]
+	},
+	{
+		"name":"basic how r u test",
+		"catcher":["how r u doing", "how is ur day", "how have u been", "how r u"],
+		"context":["how r u doing %", "how is ur day %", "how have u been %", "% how r u", "% how is ur day"],
+		"response":["I'm ok, @.", "My day is going pretty well.","I've been better tbh :|","I've never been better!"]
+	},
+	{
+		"name":"blame bradley",
+		"catcher":["whos fault"],
+		"context":["whos fault is it %", "% whos fault is it"],
+		"response":["I blame Bradley", "It was all Bradley", "Definitly Bradley's fault"]
+	}
+]
